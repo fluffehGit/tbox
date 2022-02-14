@@ -1,7 +1,7 @@
 # tbox - Torrent Daemon in a box
 
 Run the below two commands:
-- `curl --remote-name "https://raw.githubusercontent.com/fluffeGit/tbox/master/tbox-setup.sh"`
+- `curl --remote-name "https://raw.githubusercontent.com/fluffehGit/tbox/master/tbox-setup.sh"`
 - `sudo /bin/bash ./tbox-setup.sh`
 
 Optionally:
